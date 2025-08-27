@@ -2,15 +2,15 @@
 
 A visually accurate Netflix landing page clone built using HTML and CSS. This project is for educational purposes, showcasing layout, responsive design, and UI recreation skills.
 
+## Project video
+https://github.com/user-attachments/assets/8ecf1b70-2ee4-480a-856b-070a3fe9e959
+
 ## Features
 - Hero section with call-to-action and email input
 - Multiple promo blocks (TV view, offline downloads, cross-device streaming, kids profile)
 - Embedded sample images and videos mimicking Netflix content
 - Interactive FAQ section (expand/collapse interactivity should be added via JavaScript if desired)
 - Responsive navigation bar and footer similar to Netflix
-
-## Screenshots
-![Screenshot](images/logo.svg)
 
 ## Getting Started
 
